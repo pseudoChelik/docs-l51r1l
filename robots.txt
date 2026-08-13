@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-gdyhcv.keitaro-tech-rtb.online/sitemap.xml
